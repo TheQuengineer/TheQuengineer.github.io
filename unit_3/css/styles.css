@@ -1,0 +1,33 @@
+#cavepic {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+#slogan {
+  text-transform: italic;
+}
+
+
+body {
+  background-color:  rgba(183, 197, 227, 1);
+  color: rgb(0,0,0);
+  text-align: center;
+  text-decoration: none;
+}
+
+.list-items {
+  list-style-type: none;
+}
+
+h1 {
+  font-size: 33px;
+  font-weight: bolder;
+  font-style: oblique;
+  font-family: fantasy;
+  text-transform: uppercase;
+}
+
+footer > a {
+  text-decoration: none;
+}
