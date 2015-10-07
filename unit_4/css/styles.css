@@ -1,0 +1,45 @@
+#faceImage {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
+
+
+body {
+  background-color:  rgba(183, 197, 227, 1);
+  color: rgb(0,0,0);
+  text-align: center;
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+footer .list-items li {
+  list-style-type: none;
+  display: inline;
+}
+
+footer .list-items li a, li a {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 33px;
+  font-weight: bolder;
+  font-style: oblique;
+  font-family: fantasy;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+p, li, h3{
+  font-family: 'Economica', sans-serif;
+  font-size: 18px;
+  font-variant: 2em;
+}
